@@ -1,0 +1,22 @@
+.container{
+
+
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+.containerMain{
+    top: 50%; /* posiciona na metade da tela */
+    margin-top: -25px; /* e retrocede metade da altura */
+    background: #fff;
+    width: 700px;
+    height: 700px;
+    border-radius: 10px;
+    text-align: center;
+}

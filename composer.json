@@ -1,0 +1,22 @@
+{
+    "name": "aka-sacci/print_data_cnpj",
+    "description": "Get and print data from a API",
+    "autoload": {
+        "psr-4": {
+            "AkaSacci\\PrintDataCnpj\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sacci e Vitor",
+            "email": "cpd@bjperdoes.sp.gov.br"
+        }
+    ],
+    "require": {
+        "aka-sacci/getcnpj-php": "^2.2",
+        "mpdf/mpdf": "^8.0"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "3.*"
+    }
+}
