@@ -5,7 +5,9 @@ I developed this to study some concepts and functionalities of Composer and few 
 
 ## Dependencies used:
 [getcnpj-php()](https://github.com/aka-sacci/getcnpj-php) - API used to recovery the data from the national database;
+
 [mpdf](https://github.com/mpdf/mpdf) - Dependecy used to generate PDF files;
+
 [CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - Dependecy used to organize the code following the rules of PSR12;
 
 ## How to use
